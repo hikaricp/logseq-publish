@@ -1,0 +1,8 @@
+- 根服务器
+	- root-services.org
+- CDN - 内容分发网络
+- 多播和任播
+	- 任播（anycast）
+	- 多播（multicast）
+-
+	-
